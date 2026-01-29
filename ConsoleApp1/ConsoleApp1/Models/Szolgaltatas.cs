@@ -14,6 +14,6 @@ namespace ConsoleApp1.Models
 
         public string Id { get => id; set => id = value; }
         public string Nev { get => nev; set => nev = value; }
-        public string SzolgKulcs { get => szolgKulcs; set => szolgKulcs = value; }
+        public string SzolgKulcs { get => szolgKulcs; set => szolgKulcs = value; }//
     }
 }
