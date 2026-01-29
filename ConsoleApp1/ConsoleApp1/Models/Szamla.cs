@@ -19,7 +19,7 @@ namespace ConsoleApp1.Models
         string azon;
 
         public string Id { get => id; set => id = value; }
-        public string SzolgaltatasRovidNev { get => szolgaltatasRovidNev; set => szolgaltatasRovidNev = value; }
+        public string SzolgaltatasRovidNev { get => szolgaltatasRovidNev; set => szolgaltatasRovidNev = value; }//
         public DateTime Tol { get => tol; set => tol = value; }
         public DateTime Ig { get => ig; set => ig = value; }
         public decimal Osszeg { get => osszeg; set => osszeg = value; }
